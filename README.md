@@ -4,9 +4,10 @@ All the solutions are in Cpp and commented for better understanding.
 
 Codechef Username: the_blazingone
 
-# Beginner Question Bank on Codechef:-
+# Beginner Question Bank on Codechef: 
 https://www.codechef.com/problems/school
 
+# Direct Question Links
 * 
   ATM (https://www.codechef.com/submit/HS08TEST)
 
