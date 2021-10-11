@@ -85,3 +85,4 @@ https://www.codechef.com/problems/school
 * Strong Language (https://www.codechef.com/submit/SSCRIPT)
 * Interesting XOR! (https://www.codechef.com/submit/IRSTXOR)
 * Chef and Meetings (https://www.codechef.com/submit/MEET)
+* Studying Alphabet (https://www.codechef.com/submit/ALPHABET)
