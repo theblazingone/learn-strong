@@ -86,3 +86,8 @@ https://www.codechef.com/problems/school
 * Interesting XOR! (https://www.codechef.com/submit/IRSTXOR)
 * Chef and Meetings (https://www.codechef.com/submit/MEET)
 * Studying Alphabet (https://www.codechef.com/submit/ALPHABET)
+* Farmer And His Plot (https://www.codechef.com/submit/RECTSQ)
+* Bears and Candies 123 (https://www.codechef.com/submit/CANDY123)
+* Two Numbers (https://www.codechef.com/submit/TWONMS)
+* Chef and Cook-Off (https://www.codechef.com/submit/CCOOK)
+* Alternating subarray prefix (https://www.codechef.com/submit/ALTARAY)
