@@ -91,3 +91,7 @@ https://www.codechef.com/problems/school
 * Two Numbers (https://www.codechef.com/submit/TWONMS)
 * Chef and Cook-Off (https://www.codechef.com/submit/CCOOK)
 * Alternating subarray prefix (https://www.codechef.com/submit/ALTARAY)
+* Chef and Subarrays (https://www.codechef.com/submit/CHEFARRP)
+* FlatLand (https://www.codechef.com/submit/ICL1902)
+* How much Scholarship (https://www.codechef.com/submit/ZCOSCH)
+* Chef and Rainbow Array (https://www.codechef.com/submit/RAINBOWA)
