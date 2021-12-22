@@ -95,3 +95,7 @@ https://www.codechef.com/problems/school
 * FlatLand (https://www.codechef.com/submit/ICL1902)
 * How much Scholarship (https://www.codechef.com/submit/ZCOSCH)
 * Chef and Rainbow Array (https://www.codechef.com/submit/RAINBOWA)
+* Devu and friendship testing (https://www.codechef.com/submit/CFRTEST)
+* Buying New Tablet (https://www.codechef.com/submit/TABLET)
+* Chef And Coloring (https://www.codechef.com/submit/COLOR)
+* Version Control System (https://www.codechef.com/submit/VCS)
