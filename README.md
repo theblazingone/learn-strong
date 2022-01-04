@@ -120,3 +120,8 @@ https://www.codechef.com/problems/school
 * CV (https://www.codechef.com/submit/CV)
 * Count Subarrays (https://www.codechef.com/submit/SUBINCP)
 * Bear and Segment 01 (https://www.codechef.com/submit/SEGM01)
+* Chef and Interactive Constests (https://www.codechef.com/submit/CHFINTRO)
+* Easy Math (https://www.codechef.com/submit/RPD)
+* Pair Me (https://www.codechef.com/submit/SUMPOS)
+* Palindromic Substrings (https://www.codechef.com/submit/STRPALIN)
+* Attendance (https://www.codechef.com/submit/ATTND)
