@@ -160,5 +160,5 @@ https://www.codechef.com/problems/school
 * One more weird game (https://www.codechef.com/submit/OMWG)
 * Brackets (https://www.codechef.com/submit/BRACKETS)
 * Hidden Numbers (https://www.codechef.com/submit/UWCOI21A)
-* The Next Palindrome (https://www.codechef.com/submit/PALIN)
 * Valid Pair (https://www.codechef.com/submit/SOCKS1)
+* The Next Palindrome (https://www.codechef.com/submit/PALIN)
